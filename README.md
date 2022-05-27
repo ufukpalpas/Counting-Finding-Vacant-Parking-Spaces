@@ -10,7 +10,8 @@ python main.py
 <br>
 You need to download CARPK dataset and put the folders "Annotations" "Images" "ImageSets" folders under CARPK folder. (Dataset is 2GB so we cannot upload)
 <br>
-You can access and download dataset from: https://lafi.github.io/LPN/
+You can access and download dataset from: <br>
+https://lafi.github.io/LPN/
 <br>
 You can try all parts of the program by using main.py file.
 Image names are predifined in the code. you may need to change it if you want to try with different named videos or images.
