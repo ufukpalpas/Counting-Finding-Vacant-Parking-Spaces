@@ -22,4 +22,6 @@ The original source code of the train can be accessed from: <br>
 https://github.com/ekilic/Heatmap-Learner-CNN-for-Object-Counting <br>
 Our train code is an modified version of the code in the aforementioned repository.
 
-If you don't want to train again you can simply use the weights given in above reporsitory by changing its name as "weights.py"
+If you don't want to train again you can simply use the weights given in above reporsitory by changing its name as "weights.py".
+
+You can access whole capabilities and details of the code from the report.
