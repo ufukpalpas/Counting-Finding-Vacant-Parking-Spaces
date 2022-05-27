@@ -1,0 +1,2 @@
+You need to download CARPK dataset and put the folders "Annotations" "Images" "ImageSets" folders under CARPK folder.
+You can access and download dataset from https://lafi.github.io/LPN/
